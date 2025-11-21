@@ -1,0 +1,12 @@
+{
+    "addons": {
+        "gmail-to-clickup@example.com": {
+            "updates": [
+                {
+                    "version": "0.1.1",
+                    "update_link": "https://username.github.io/repo/releases/GmailToClickUp-0.1.1.xpi"
+                }
+            ]
+        }
+    }
+}
